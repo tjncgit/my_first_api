@@ -1,4 +1,4 @@
-package Nchukwi.Adesina.myfirstapi;
+package NchukwiAdesina.myfirstapi.Greeting.model;
 
 public class Greeting {
 

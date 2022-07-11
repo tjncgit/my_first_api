@@ -1,4 +1,4 @@
-package Nchukwi.Adesina.myfirstapi;
+package NchukwiAdesina.myfirstapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
